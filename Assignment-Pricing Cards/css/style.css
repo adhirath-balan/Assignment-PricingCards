@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Ruda', sans-serif;
+}
+
+.container{
+    margin-top: 9%;
+}
+
+.card:hover{
+    box-shadow: 15px 15px 15px 5px black;
+}
